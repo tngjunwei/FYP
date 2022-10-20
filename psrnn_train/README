@@ -1,0 +1,1 @@
+Place the series_n.npz file (where n=latent space size) in the root directory and run train.py.

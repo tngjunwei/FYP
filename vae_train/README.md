@@ -1,0 +1,1 @@
+For basic VAE training, run `python vae_train.py`.
